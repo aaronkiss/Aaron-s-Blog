@@ -117,4 +117,85 @@ http://bit.ly/2J9wCb5​
 💜 Cambly在线外教英语学习: 注册后使用推荐码SCH, 可获免费15分钟体验
 http://cambly.com/invite/SCH  
 
-[来自这里](https://www.youtube.com/watch?v=-9HapR9jct0&ab_channel=SchelleyYuki)
+[来自这里](https://www.youtube.com/watch?v=-9HapR9jct0&ab_channel=SchelleyYuki)  
+
+-------------------  
+编程学习资源推荐】
+1. 有效掌握编程本质: The Little Schemer
+https://amzn.to/2VOkezE​
+2. 高效准备算法面试: AlgoExpert.🔥福利: 使用推广码schelley可获10%折扣
+https://algoexpert.io/schelley​
+3. 获取Top科技公司的高频面试题: LeetCode Premium 🔥福利: 从下面这个链接购买, 可获15%折扣, 立省$24!
+http://bit.ly/3nLwPAl​
+4. 高效准备系统设计面试: Grokking the System Design Interview 🔥福利:使用折扣码schelley订阅Educative Unlimited可获10%折扣
+https://bit.ly/2Rwy1d4​
+5. 编程入门: 由前Google资深工程师Karl Krueger带你做项目, 学编程 🔥福利:使用折扣码cyber60可获60%折扣!
+https://bit.ly/2IVK5mH​
+6. 编程入门: Rice大学CS系一年级核心课程浓缩版: 从Python入门到数据结构和算法 
+https://bit.ly/2TrGjDw​
+7. Python: 由前Google工程师和3Blue1Brown作者授课, 教你用Python搭建AI应用, 解决复杂问题 🔥福利:使用折扣码cyber60可获60%折扣!
+https://bit.ly/2UMNsPx​
+8. Python: 手把手教你用Python写出10个实用app (比如: 摄像头动作感应识别)
+https://bit.ly/2KDYBNm​
+9. Java: 带你实现一个多线程网络爬虫, 教你使用Maven开发大型应用 🔥福利:使用折扣码cyber60可获60%折扣!
+http://bit.ly/3qJ2rrT​
+10. Java: 带你用Java实现一个电影推荐系统
+https://bit.ly/2PTe5Q6​
+11. Java移动开发: 由Google Android团队工程师授课, 教你零基础开发Android应用 🔥福利:使用折扣码cyber60可获60%折扣!
+https://bit.ly/36UBE32​
+12. Go入门: Coursera上最受欢迎的Golang课程
+http://bit.ly/3qT9jTu​
+13. 后端开发理论: Designing Data-Intensive Apps
+https://amzn.to/3eErpmx​
+14. 全栈开发: 用Python Flask框架做项目 🔥福利:使用折扣码cyber60可获60%折扣!
+https://bit.ly/382c0eu​
+15. JavaScript: Udemy上评分最高的ReactJS教程
+https://bit.ly/2wHnnc1​
+16. JavaScript: Udemy上评分最高的NodeJS后端开发教程 (涵盖REST API和GraphQL)
+https://bit.ly/2OUMnSP​
+17. JavaScript入门
+https://bit.ly/3a000b9​
+18. 云计算: AWS基础入门
+https://bit.ly/37ZK4sr​
+19. Machine Learning入门: 带你用PyTorch实现图像分类 🔥福利:使用折扣码cyber60可获60%折扣!
+http://bit.ly/3aZG0cA​
+20. Deep Learning: 由Andrew Ng授课, Coursera上最受欢迎的AI进阶课程
+https://bit.ly/3o1ShBl​
+21. Self-Driving Car: 由Google X实验室创始人Sebastian Thrun教你搭建无人驾驶车 🔥福利:使用折扣码cyber60可获60%折扣!
+https://bit.ly/2JqczVL​
+
+【💰折扣福利💰】
+🔥 Udacity: 使用折扣码cyber60可获60%折扣!
+http://bit.ly/31cVqVf​
+🔥 AlgoExpert: 使用推广码schelley可获10%折扣
+https://algoexpert.io/schelley​
+🔥 LeetCode Premium会员15% OFF, 立省$24!
+http://bit.ly/3nLwPAl​
+🔥 力扣Plus会员15% OFF
+http://bit.ly/2NvYg3O​
+🔥 Educative Unlimited: 使用折扣码schelley可获10%折扣
+http://bit.ly/2J9wCb5​
+💜 Cambly在线外教英语学习: 注册后使用推荐码SCH, 可获免费15分钟体验
+http://cambly.com/invite/SCH​
+
+【我制作视频使用的设备】
+1. 麦克风: PowerDeWise专业麦克风
+https://amzn.to/2WXLMob​
+2. 相机1: Cannon G7X Mark II
+https://amzn.to/34UabgA​
+3. 相机2: Cannon M50
+https://amzn.to/2YKi4CL​
+4. 相机稳定器: ZHIYUN Crane M2
+https://bit.ly/3lq5CCk​
+5. 航拍: DJI Spark
+https://amzn.to/2xTq0Iy​
+6. 电脑: MacBook Air 13inch
+https://amzn.to/2yxa0vA​
+7. 剪片用的超宽显示屏: LG 34-Inch UltraWide WQHD IPS Monitor
+https://amzn.to/2FgVKLn​
+8. 移动硬盘: WD 2TB Elements
+https://amzn.to/3cCxTRk  
+[来自这里](https://www.youtube.com/watch?v=Q33MZlhJF98&ab_channel=SchelleyYuki)  ，
+
+6. Educative Unlimited 🔥福利:使用折扣码schelley可获10%折扣这里
+6. Educative Unlimited 🔥福利:使用折扣码schelley可获10%折扣
