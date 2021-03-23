@@ -120,7 +120,7 @@ http://cambly.com/invite/SCH
 [来自这里](https://www.youtube.com/watch?v=-9HapR9jct0&ab_channel=SchelleyYuki)  
 
 -------------------  
-编程学习资源推荐】
+编程学习资源推荐
 1. 有效掌握编程本质: The Little Schemer
 https://amzn.to/2VOkezE​
 2. 高效准备算法面试: AlgoExpert.🔥福利: 使用推广码schelley可获10%折扣
@@ -165,37 +165,18 @@ https://bit.ly/3o1ShBl​
 https://bit.ly/2JqczVL​
 
 【💰折扣福利💰】
-🔥 Udacity: 使用折扣码cyber60可获60%折扣!
-http://bit.ly/31cVqVf​
-🔥 AlgoExpert: 使用推广码schelley可获10%折扣
-https://algoexpert.io/schelley​
-🔥 LeetCode Premium会员15% OFF, 立省$24!
-http://bit.ly/3nLwPAl​
-🔥 力扣Plus会员15% OFF
-http://bit.ly/2NvYg3O​
-🔥 Educative Unlimited: 使用折扣码schelley可获10%折扣
-http://bit.ly/2J9wCb5​
-💜 Cambly在线外教英语学习: 注册后使用推荐码SCH, 可获免费15分钟体验
-http://cambly.com/invite/SCH​
+🔥 Udacity: 使用折扣码cyber60可获60%折扣!  
+http://bit.ly/31cVqVf​  
+🔥 AlgoExpert: 使用推广码schelley可获10%折扣  
+https://algoexpert.io/schelley​  
+🔥 LeetCode Premium会员15% OFF, 立省$24!  
+http://bit.ly/3nLwPAl​  
+🔥 力扣Plus会员15% OFF  
+http://bit.ly/2NvYg3O​  
+🔥 Educative Unlimited: 使用折扣码schelley可获10%折扣  
+http://bit.ly/2J9wCb5​  
+💜 Cambly在线外教英语学习: 注册后使用推荐码SCH, 可获免费15分钟体验  
+http://cambly.com/invite/SCH​  
 
-【我制作视频使用的设备】
-1. 麦克风: PowerDeWise专业麦克风
-https://amzn.to/2WXLMob​
-2. 相机1: Cannon G7X Mark II
-https://amzn.to/34UabgA​
-3. 相机2: Cannon M50
-https://amzn.to/2YKi4CL​
-4. 相机稳定器: ZHIYUN Crane M2
-https://bit.ly/3lq5CCk​
-5. 航拍: DJI Spark
-https://amzn.to/2xTq0Iy​
-6. 电脑: MacBook Air 13inch
-https://amzn.to/2yxa0vA​
-7. 剪片用的超宽显示屏: LG 34-Inch UltraWide WQHD IPS Monitor
-https://amzn.to/2FgVKLn​
-8. 移动硬盘: WD 2TB Elements
-https://amzn.to/3cCxTRk  
-[来自这里](https://www.youtube.com/watch?v=Q33MZlhJF98&ab_channel=SchelleyYuki)  ，
 
-6. Educative Unlimited 🔥福利:使用折扣码schelley可获10%折扣这里
-6. Educative Unlimited 🔥福利:使用折扣码schelley可获10%折扣
+[来自这里](https://www.youtube.com/watch?v=Q33MZlhJF98&ab_channel=SchelleyYuki)  
