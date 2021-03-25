@@ -180,3 +180,6 @@ http://cambly.com/invite/SCH​
 
 
 [来自这里](https://www.youtube.com/watch?v=Q33MZlhJF98&ab_channel=SchelleyYuki)  
+  
+  
+  解密学习Java会遇到的常见误区. ❤️ 视频中提到的两个Java学习资源: 1. 实现23个实用的Android apps https://bit.ly/3f85nYJ​ 2. 杜克大学用Java实现电影推荐系统 https://bit.ly/2PTe5Q6​ 💜 如果想学习更高级的Java特性, 推荐 https://bit.ly/3qJ2rrT​ 
