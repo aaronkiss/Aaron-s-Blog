@@ -183,3 +183,14 @@ http://cambly.com/invite/SCH​
   
   
   解密学习Java会遇到的常见误区. ❤️ 视频中提到的两个Java学习资源: 1. 实现23个实用的Android apps https://bit.ly/3f85nYJ​ 2. 杜克大学用Java实现电影推荐系统 https://bit.ly/2PTe5Q6​ 💜 如果想学习更高级的Java特性, 推荐 https://bit.ly/3qJ2rrT​ 
+  
+  
+  
+  
+  -------------------------
+  
+  CS50: https://www.edx.org/course/cs50s-intr...​         超级火的哈佛课程，免费！！！
+CS61B: https://sp18.datastructur.es​
+Data100: http://www.ds100.org​
+Science & Cooking: https://www.edx.org/course/science-co...​
+The Science of Well-Being: https://www.coursera.org/learn/the-sc...
