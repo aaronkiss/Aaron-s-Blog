@@ -194,3 +194,101 @@ CS61B: https://sp18.datastructur.es​
 Data100: http://www.ds100.org​
 Science & Cooking: https://www.edx.org/course/science-co...​
 The Science of Well-Being: https://www.coursera.org/learn/the-sc...
+
+
+
+【 Educative交互式编程课 】
+1. Python入门 💜 Educative Unlimited折扣码: schelley
+https://bit.ly/3cKEGv8​
+2. Python全栈开发: 使用Python Flask 💜 Educative Unlimited折扣码: schelley
+https://bit.ly/37UqoVG​ 
+3. Java入门 💜 Educative Unlimited折扣码: schelley
+https://bit.ly/3cN8kzN​
+4. Java后端开发: 使用Spring Boot 💜 Educative Unlimited折扣码: schelley
+https://bit.ly/3cKHnN4​
+5. C++ 💜 Educative Unlimited折扣码: schelley
+https://bit.ly/3cLIM64​
+6. C# 💜 Educative Unlimited折扣码: schelley
+https://bit.ly/39F0NAZ​
+7. React前端开发 💜 Educative Unlimited折扣码: schelley
+https://bit.ly/3vMhNiq​
+8. Vue前端开发 💜 Educative Unlimited折扣码: schelley
+https://bit.ly/3miPcwK​
+9. Node.js后端开发 💜 Educative Unlimited折扣码: schelley
+https://bit.ly/31P09wL​
+
+【 💎 影片中未提到的优质编程学习资源 】
+1. 高效准备算法面试: AlgoExpert 💎 使用推广码schelley可获10%折扣
+https://algoexpert.io/schelley​
+2. 获取Top科技公司的高频面试题: LeetCode Premium 💎 从以下链接购买, 可获15%折扣
+https://bit.ly/3q0iDEo​
+3. Java: 带你实现一个多线程网络爬虫, 教你使用Maven开发大型应用 💎 使用折扣码cyber60可获60%折扣
+http://bit.ly/3qJ2rrT​
+4. Android: 由Google Android团队出品的Android课程 💎 使用折扣码cyber60可获60%折扣
+https://bit.ly/36UBE32​
+5. AI programming with Python: 由3Blue1Brown作者参与讲解 💎 使用折扣码cyber60可获60%折扣
+https://bit.ly/2UMNsPx​
+6. Go入门: Coursera上最受欢迎的Golang课程
+http://bit.ly/3qT9jTu​
+7. 编程入门: Rice大学CS系一年级核心课程浓缩版: 从Python入门到数据结构和算法
+https://bit.ly/2TrGjDw​
+8. C++: UIUC的CS基础课, 教你用C++实现数据结构和算法
+http://bit.ly/30Xeuqu​
+
+【 💰折扣福利💰 】
+🔥 Udacity: 使用折扣码cyber60可获60%折扣!
+http://bit.ly/31cVqVf​
+🔥 AlgoExpert: 使用推广码schelley可获10%折扣
+https://algoexpert.io/schelley​
+🔥 LeetCode Premium会员15% OFF!
+http://bit.ly/3nLwPAl​
+🔥 Educative Unlimited: 使用折扣码schelley可获10%折扣
+http://bit.ly/2J9wCb5​
+💜 Cambly在线外教英语学习: 注册后使用推荐码SCH, 可获免费15分钟体验
+http://cambly.com/invite/SCH​
+
+【 我的其它相关视频 】
+1. 找工作必看: 如何高效准备算法面试, 系统设计面试和behaviral面试? 
+https://youtu.be/-9HapR9jct0​
+2. 转CS, 做什么项目有助于找工作? 第一次找实习, 如何积累项目经历?
+https://youtu.be/fScttW55D_U​
+3. 分享Java学习经验, Java教程, 解密初学Java的常见误区
+https://youtu.be/IFDjrK2y5s4​
+4. 前端, 后端, 全栈分别是做什么的? 在美国做码农选哪个方向?
+https://youtu.be/5wP0KuBIrZo​
+5. 我是如何从文科转到计算机专业的? 转CS申请文书PS如何构思?
+https://youtu.be/FFDi7rn-U4c​
+6. 我从文科零基础到拿到码农全职offer的时间线
+https://youtu.be/Q33MZlhJF98​
+7. 开始全职码农工作后的日常 
+https://youtu.be/aUVLtgl4yBA​
+8. 程序员刚毕业在美国能挣多少? 
+https://youtu.be/e1cy1ZqICCI​
+
+❤️ Instagram: 欢迎关注我的Instagram
+https://www.instagram.com/schelleyyuki_/​
+
+【 我制作视频使用的设备 】
+1. 麦克风: PowerDeWise专业麦克风
+https://amzn.to/2WXLMob​
+2. 相机1: Cannon G7X Mark II
+https://amzn.to/34UabgA​
+3. 相机2: Cannon M50
+https://amzn.to/2YKi4CL​
+4. 相机稳定器: ZHIYUN Crane M2
+https://bit.ly/3lq5CCk​
+5. 航拍: DJI Spark
+https://amzn.to/2xTq0Iy​
+6. 电脑: M1 MacBook Air
+https://amzn.to/3qT9kaw​
+7. 剪片用的超宽显示屏: LG 34-Inch UltraWide WQHD IPS Monitor
+https://amzn.to/2FgVKLn​
+8. 移动硬盘: WD 2TB Elements
+https://amzn.to/3cCxTRk​
+9. 人体工学椅: Herman Miller Aeron Chair
+https://amzn.to/2LwoPle​
+
+【 disclaimer 声明 】
+Some links are affiliated, and I will be compensated if you make a qualifying purchase through my links.
+
+[来自于这里](https://www.youtube.com/watch?v=tk2XqSkzIpM&ab_channel=SchelleyYuki)
