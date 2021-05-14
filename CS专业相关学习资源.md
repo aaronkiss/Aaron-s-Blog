@@ -1,6 +1,109 @@
 ---------- Stanford class ----------   
  CS106B Programming Abstractions in C++: http://web.stanford.edu/class/cs106b/​
  (YouTube Playlist: CS106B, Programming Abstractions in C++, Win 2018) 
+ 介绍了如何入门编程, 以及如何规划进阶学习路线 💜 视频里介绍的Java课: https://bit.ly/3qJ2rrT  Python数据分析: https://bit.ly/38CGIe9 Python后端开发: https://bit.ly/382c0eu  算法入门: https://algoexpert.io/schelley 操作系统: https://bit.ly/3d8PFPd 👇 其它编程学习资源在下方👇
+
+【 💜编程入门: Udacity实战项目课 】
+1. Java: 带你实现一个多线程网页爬虫 💜福利:免费试用30天
+https://bit.ly/3qJ2rrT
+2. Python数据分析 💜福利:免费试用30天
+https://bit.ly/38CGIe9
+3. Python后端开发 💜福利:免费试用30天
+https://bit.ly/382c0eu
+4. Python AI编程 (3Blue1Brown作者参与授课) 💜福利:免费试用30天
+https://bit.ly/2UMNsPx
+5. JavaScript前端开发 💜福利:免费试用30天
+https://bit.ly/3dRiErk
+6. React开发 💜福利:免费试用30天
+https://bit.ly/39UG5wf
+7. 与Google联合出品的Android入门课 💜福利:免费试用30天
+https://bit.ly/36UBE32
+8. 免费Python入门 
+https://bit.ly/3qVtUGM
+9. 免费HTML/CSS入门
+https://bit.ly/2SRk6BJ
+10. 免费Git入门
+https://bit.ly/3hlHKk1
+
+【 💎编程进阶 】
+1. 高效入门算法: AlgoExpert.💎福利: 使用推广码schelley可获10%折扣
+https://algoexpert.io/schelley
+2. 获取美国Top科技公司的高频面试题: LeetCode Premium 💎福利: 从以下链接购买, 可获15%折扣!
+https://bit.ly/3q0iDEo
+3. 获取中国Top科技公司的高频面试题: 力扣Plus 💎福利: 从以下链接购买, 可获15%折扣
+https://bit.ly/2NvYg3O
+4. 操作系统课 💎福利:使用折扣码schelley订阅Educative Unlimited可获10%折扣
+https://bit.ly/3d8PFPd
+5. 操作系统书
+https://amzn.to/33DZ3Vs
+6. Grokking the System Design Interview 💎福利:使用折扣码schelley订阅Educative Unlimited可获10%折扣
+https://bit.ly/2Rwy1d4
+
+【 影片中未提到的优质编程学习资源 】
+1. C入门: Duke大学的C语言课程, 通过做项目带你深入理解pointer.
+http://bit.ly/3kjeWYR
+2. Go入门: Coursera上最受欢迎的Golang课程
+http://bit.ly/3qT9jTu
+3. Deep Learning: 由Andrew Ng授课, Coursera上最受欢迎的AI进阶课程
+https://bit.ly/3o1ShBl
+
+【💰折扣福利💰】
+🔥🔥 Udacity: 所有课程免费使用30天!
+美国地区用户 👉 https://bit.ly/3aw1iOy 
+其它地区用户 👉 https://bit.ly/3t2cJDY
+🔥 AlgoExpert: 使用推广码schelley可获10%折扣
+https://algoexpert.io/schelley
+🔥 LeetCode Premium会员15% OFF, 立省$24!
+http://bit.ly/3nLwPAl
+🔥 力扣Plus会员15% OFF
+http://bit.ly/2NvYg3O
+🔥 Educative Unlimited: 使用折扣码schelley可获10%折扣
+http://bit.ly/2J9wCb5
+💜 Cambly在线外教英语学习: 注册后使用推荐码SCH, 可获免费15分钟体验
+http://cambly.com/invite/SCH
+
+【 我的其它相关视频 】
+1. 找工作必看: 如何高效准备算法面试, 系统设计面试和behaviral面试? 
+https://youtu.be/-9HapR9jct0
+2. 转CS, 做什么项目有助于找工作? 第一次找实习, 如何积累项目经历?
+https://youtu.be/fScttW55D_U
+3. 分享Java学习经验, Java教程, 解密初学Java的常见误区
+https://youtu.be/IFDjrK2y5s4
+4. 前端, 后端, 全栈分别是做什么的? 在美国做码农选哪个方向?
+https://youtu.be/5wP0KuBIrZo
+5. 我是如何从文科转到计算机专业的? 转CS申请文书PS如何构思?
+https://youtu.be/FFDi7rn-U4c
+6. 我从文科零基础到拿到码农全职offer的时间线
+https://youtu.be/Q33MZlhJF98
+7. 开始全职码农工作后的日常 
+https://youtu.be/aUVLtgl4yBA
+8. 程序员刚毕业在美国能挣多少? 
+https://youtu.be/e1cy1ZqICCI
+
+❤️ Instagram: 欢迎关注我的Instagram
+https://www.instagram.com/schelleyyuki_/
+
+【 我制作视频使用的设备 】
+1. 剪片用的超宽显示屏: LG 34-Inch UltraWide WQHD IPS Monitor
+https://bit.ly/3wKXhyW
+2. 移动硬盘: WD 2TB Elements
+https://bit.ly/3a1bCxL
+3. 相机1: Cannon G7X Mark II
+https://amzn.to/34UabgA
+4. 相机2: Cannon M50
+https://bit.ly/3fZGfY0
+5. 相机稳定器: ZHIYUN Crane M2
+https://bit.ly/3lq5CCk
+6. 航拍: DJI Spark
+https://amzn.to/2xTq0Iy
+7. 电脑: M1 MacBook Air
+https://amzn.to/3qT9kaw
+8. 人体工学椅: Herman Miller Aeron Chair
+https://amzn.to/2LwoPle
+
+
+-----------------------------------
+ 
  这个就是我当时的老师讲的课，我觉得讲的非常非常好
  而且课程内容很全面，cover了编程基础和重要的数据结构和算法
  https://www.youtube.com/playlist?list...​
