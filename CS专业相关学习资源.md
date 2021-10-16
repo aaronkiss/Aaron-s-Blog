@@ -1,3 +1,52 @@
+---------- 10月16日 更新自https://www.youtube.com/watch?v=Epmh9fyVuGE&ab_channel=SchelleyYuki -----------
+学编程，M1 Macbook Air是否够用？还是应该用Macbook Pro？ 内存应该配8GB还是16GB？M1 Macbook Air有哪些优点？Mac系统有哪些免费好用的编程软件？这些软件对Apple Silicon适配如何了？👇视频中的编程学习资源和Postgres app下载地址在下👇 🔥🔥重磅福利：Udacity所有课程省75%！链接自带捆绑：https://schelley.co/udacity
+
+【编程学习资源推荐】 1.Java：带你实现一个多线程网络爬虫，教你用Maven做大型项目🔥福利：链接自带75%折扣折扣
+https://schelley.co/java
+2.Python（附带方向）：带你用Python Flask框架做项目，开发网站完整版🔥福利：链接自带75%折扣折扣
+https://schelley.co/python-backend
+3.Python（数据科学方向）：带你用Python分析数据，助你成为数据科学家🔥福利：链接自带75%折扣折扣
+https://schelley.co/python-ds
+4.Python（AI方向）：由前谷歌工程师和3Blue1Brown作者授课，带你用Python搭建AI应用🔥福利：链接自带75%折扣捆绑
+https://schelley.co/python-ai
+5.（全栈方向）：带你用JavaScript全栈开发🔥福利：链接自带75%折扣做绑定
+https://schelley.co/fullstack-js
+6.JavaScript（纯前端方向）：带你用JavaScript开发网站前端🔥福利链接自带75%折扣捆绑
+https://schelley.co/frontend
+7.C++：带你用++做5个硬核项目🔥福利：链接自带75%折扣捆绑
+https://schelley.co/cpp
+9.SQL：通过开发一个新闻聚合器学习SQL和数据库🔥福利：链接自带75%折扣捆绑
+https://schelley.co/sql
+9.移动开发：由Google Android团队工程师授课开发，教你零基础Android应用🔥福利：链接自带75%折扣打包
+https://schelley.co/android
+10. Self-Driving Car：由谷歌X实验室Sebastian Thrun教你搭车🔥福利：链接自带75%折扣捆绑
+https://schelley.co/self-driving
+
+【 Postgres app下载】
+https://schelley.co/postgres-download
+
+【高效准备技术面试】 1.高效准备技术面试：AlgoExpert 🔥福利：使用推广码schelley可获10%捆绑捆绑
+https://algoexpert.io/schelley
+2. 获取Top科技公司的高频面试题：LeetCode Premium 🔥福利：链接自带15%捆绑
+https://schelley.co/leetcode
+3.高效准备系统设计面试：Gokking the System Design Interview 🔥福利：使用捆绑码chelley订阅Educative Unlimited可获10%捆绑
+https://schelley.co/system-design
+
+【💰折扣福利💰】🔥🔥 Udacity：所有课程75%OFF！链接自带捆绑
+https://schelley.co/udacity
+🔥 AlgoExpert：使用推广码schelley可获10%捆绑
+https://algoexpert.io/schelley
+🔥 LeetCode Premium会员15%OFF，立省$24！
+https://schelley.co/leetcode
+🔥力扣Plus会员15%OFF
+https://schelley.co/leetcode-cn
+🔥 Educative Unlimited: 获得使用捆绑码schelley可10%捆绑
+https://schelley.co/education
+💜 Cambly在线外教英语学习：注册后使用推荐码SCH，可获免费15分钟体验
+http://cambly.com/invite/SCH
+
+
+
 ---------- Stanford class ----------   
  CS106B Programming Abstractions in C++: http://web.stanford.edu/class/cs106b/​
  (YouTube Playlist: CS106B, Programming Abstractions in C++, Win 2018) 
